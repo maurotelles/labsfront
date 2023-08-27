@@ -57,3 +57,16 @@ Arquivo index.html um diretório superior ao atual [../]
 ../../index.html
 Arquivo index.html dois diretórios superiores ao atual.[../../]
 -------------------------------
+
+
+===================================================
+
+
+
+Inherit (herança)
+
+Há elementos do HTML que não herdam do pai
+para herdar coloque inherit
+
+
+
