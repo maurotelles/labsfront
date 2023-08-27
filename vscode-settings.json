@@ -1,0 +1,36 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.untitled.hint": "hidden",
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "breadcrumbs.filePath": "off",
+  "outline.icons": false,
+  "workbench.colorTheme": "Monokai",
+  "telemetry.telemetryLevel": "off",
+  "editor.formatOnSave": true,
+  "editor.accessibilityPageSize": 15,
+  "html.format.wrapAttributes": "auto",
+  "html.format.wrapLineLength": 0,
+  "html.autoClosingTags": false,
+  "editor.renderLineHighlightOnlyWhenFocus": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.lineHeight": 1.75,
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.minimap.renderCharacters": false
+}

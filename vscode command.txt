@@ -1,0 +1,5 @@
+ctrl+shift+p - procura configurações
+
+a)settings
+b)editor line hight
+c)format document
