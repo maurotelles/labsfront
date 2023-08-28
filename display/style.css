@@ -1,0 +1,15 @@
+.descricao li {
+  font-weight: bold;
+  font-size: 25px;
+}
+.descricao {
+  background-color: aquamarine;
+}
+
+.exemplo a {
+  display: inline-block;
+  background-color: bisque;
+  height: 30px;
+  padding: 20px;
+  margin: 10px;
+}
