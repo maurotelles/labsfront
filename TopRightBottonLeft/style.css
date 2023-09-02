@@ -1,0 +1,34 @@
+body {
+  display: inline-block;
+  font-family: arial;
+}
+
+.comercio1 {
+  background-color: bisque;
+}
+.comercio2 {
+  background-color: burlywood;
+}
+
+.comercio1 h1 {
+  background-color: brown;
+  color: aliceblue;
+  padding: 10px 10px;
+}
+
+.comercio2 h1 {
+  background-color: chocolate;
+  color: aliceblue;
+  padding: 10px 10px;
+}
+
+.comercio1 p {
+  padding: 15px 15px;
+}
+
+.comercio2 p {
+  padding: 10px 10px;
+}
+div {
+  display: inline-block;
+}
